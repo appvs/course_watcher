@@ -3,25 +3,61 @@ import video2 from './assets/2.mp4'
 import video3 from './assets/3.mp4'
 import video4 from './assets/4.mp4'
 import video5 from './assets/5.mp4'
-import video6 from './assets/5.mp4'
+import video6 from './assets/6.mp4'
+import video7 from './assets/7.mp4'
+import video8 from './assets/8.mp4'
+import video9 from './assets/9.mp4'
+import video10 from './assets/10.mp4'
+import video11 from './assets/11.mp4'
+import video12 from './assets/12.mp4'
+import video13 from './assets/13.mp4'
+import video14 from './assets/14.mp4'
+import video15 from './assets/15.mp4'
+import video16 from './assets/16.mp4'
+import video17 from './assets/17.mp4'
+import video18 from './assets/18.mp4'
+import video19 from './assets/19.mp4'
+import video20 from './assets/20.mp4'
+import video21 from './assets/21.mp4'
+import video22 from './assets/22.mp4'
+import video23 from './assets/23.mp4'
+import video24 from './assets/24.mp4'
+import video25 from './assets/25.mp4'
+import video26 from './assets/26.mp4'
+import video27 from './assets/27.mp4'
+import video28 from './assets/28.mp4'
+import video29 from './assets/29.mp4'
+import video30 from './assets/30.mp4'
 
 export default [
-	{
-		src: video1
-	},
-	{
-		src: video2
-	},
-	{
-		src: video3
-	},
-	{
-		src: video4
-	},
-	{
-		src: video5
-	},
-	{
-		src: video6
-	},
+	{ src: video1 },
+	{ src: video2 },
+	{ src: video3 },
+	{ src: video4 },
+	{ src: video5 },
+	{ src: video6 },
+	{ src: video7 },
+	{ src: video8 },
+	{ src: video9 },
+	{ src: video10 },
+	{ src: video11 },
+	{ src: video12 },
+	{ src: video13 },
+	{ src: video14 },
+	{ src: video15 },
+	{ src: video16 },
+	{ src: video17 },
+	{ src: video18 },
+	{ src: video19 },
+	{ src: video20 },
+	{ src: video21 },
+	{ src: video22 },
+	{ src: video23 },
+	{ src: video24 },
+	{ src: video25 },
+	{ src: video26 },
+	{ src: video27 },
+	{ src: video28 },
+	{ src: video29 },
+	{ src: video30 },
 ]
