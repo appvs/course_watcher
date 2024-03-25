@@ -1,24 +1,24 @@
-# course_watcher_vue
+<h1>Платформа для просмотра курсов</h1>
 
-## Project setup
-```
-npm install
-```
+<h2>Подотовка</h2>
+<ul>
+	<li>Переименовать видеофайлы. Имена файлов должны быть в формате '1.mp4', '2.mp4' и так далее</li>
+	<li>Поместить нужные файлы в директорию 'assets'</li>
+	<li>Изменить в файле course.js количество импортов + количество элементов массива в соответствии с количеством видео</li>
+</ul>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<h2>Запуск</h2>
+<strong>Для запуска на localhost</strong>
+<ul>
+	<li>Открыть рабочую директорию в терминале</li>
+	<li>Ввести команду npm run serve</li>
+	<li>Открыть в браузере адрес localhost:8080</li>
+</ul>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<strong>Для запуска билда проекта</strong>
+<ul>
+	<li>Открыть рабочую директорию в терминале</li>
+	<li>Ввести команду npm run build</li>
+	<li>Проект будет находиться в директории 'dist'</li>
+	<li>Запускаем с помощью файла 'indx.html'</li>
+</ul>
